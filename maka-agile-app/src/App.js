@@ -1,5 +1,3 @@
-import Team from "./Team";
-import "./index.css"
 import About from "./About";
 import "./index.css"
 
@@ -15,8 +13,6 @@ const App=()=>{
     <div>
             <Introduction/>
             <About/>
-      <p className="heading">Our Team</p>
-    <Team/>
     </div>
   )
 }
