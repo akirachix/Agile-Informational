@@ -1,5 +1,4 @@
 import Team from "./Team";
-import "./index.css"
 
 
 const App=()=>{
