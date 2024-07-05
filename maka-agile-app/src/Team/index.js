@@ -4,6 +4,7 @@ const Team = ()=>{
 
     return(
         <div id='team-members'>
+            <p className="heading">Our Team</p>
             <div className='threeImagesColumn'>
             <div className='image'>
             <img src='/images/Screenshot from 2024-06-16 15-51-33.png' alt='Maureen' className='image'/>
