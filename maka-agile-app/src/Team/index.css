@@ -22,7 +22,7 @@
 .heading{
     margin-top: 5%;
     font-size: 5rem;
-    font-style: italic;
+    font-style: inria serif;
     margin-left: 40%;
     font-family: inherit;
     font-weight: lighter;
@@ -31,22 +31,22 @@
 p{
     margin-left: 15%;
     font-size: 20px;
-    font-style: italic;
+    font-style: inria serif;
 }
 .wato{
     margin-left: 31%;
     font-size: 20px;
-    font-style: italic;
+    font-style: inria serif;
 }
 .pris{
     margin-left: 25%;
     font-size: 20px;
-    font-style: italic;
+    font-style: inria serif;
 }
 .mau{
     margin-left: 27%;
     font-size: 20px;
-    font-style: italic;
+    font-style: inria serif;
 }
 
 @media screen and (min-width:100px) and (max-width:280px){
@@ -75,9 +75,9 @@ p{
     .heading{
         margin-top: 5%;
         font-size: 2rem;
-        font-style: italic;
-        margin-left: 25%;
-        font-family: inherit;
+        font-style: inria serif;
+        margin-left: 5%;
+        font-family: inria serif;
         font-weight: lighter;
     
     }
@@ -85,23 +85,23 @@ p{
     .wato{
         margin-left: 4%;
         font-size: 1rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .pris{
         margin-left: 0;
         font-size: 1rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .susan{
         margin-left: 0;
         font-size: 1rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .maggie{
         margin-right: 100%;
         margin-left: 4%;
         font-size: 1rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .mau{
         margin-left: 0;
@@ -135,9 +135,9 @@ p{
     .heading{
         margin-top: 5%;
         font-size: 2rem;
-        font-style: italic;
-        margin-left: 32%;
-        font-family: inherit;
+        font-style: inria serif;
+        margin-left: 5%;
+        font-family:inria serif ;
         font-weight: lighter;
     
     }
@@ -145,28 +145,28 @@ p{
     .wato{
         margin-left: 4%;
         font-size: 1rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .pris{
         margin-left: 0;
         font-size: 1rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .susan{
         margin-left: 0;
         font-size: 1rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .maggie{
         margin-right: 100%;
         margin-left: 4%;
         font-size: 1rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .mau{
         margin-left: 0;
         font-size: 1rem;
-        font-style: italic;
+        font-style: inria serif;
     }
      
 }
@@ -175,14 +175,14 @@ p{
         display: flex;
         flex-direction: column;
         gap: 18%;
-        padding-left: 142px;
+        padding-left: 160px;
     }
     
     #twoImagesColumn{
       display: flex;
       flex-direction: column;
       gap: 18%; 
-      padding-left: 142px;
+      padding-left: 160px;
       padding-top: 3px;
     }
     
@@ -196,38 +196,38 @@ p{
     .heading{
         margin-top: 5%;
         font-size: 2rem;
-        font-style: italic;
-        margin-left: 32%;
+        font-style: inria serif;
+        margin-left: 3%;
         font-family: inherit;
-        font-weight: lighter;
+        font-weight: 300;
     
     }
     
     .wato{
         margin-left: 4%;
         font-size: 1rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .pris{
         margin-left: 0;
         font-size: 1rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .susan{
         margin-left: 0;
         font-size: 1rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .maggie{
         margin-right: 100%;
         margin-left: 4%;
         font-size: 1rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .mau{
         margin-left: 0;
         font-size: 1rem;
-        font-style: italic;
+        font-style: inria serif;
     }
      
 }
@@ -256,7 +256,7 @@ p{
     .heading{
         margin-top: 5%;
         font-size: 3rem;
-        font-style: italic;
+        font-style: inria serif;
         margin-left: 30%;
         font-family: inherit;
         font-weight: lighter;
@@ -266,28 +266,28 @@ p{
     .wato{
         margin-left: 4%;
         font-size: 1rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .pris{
         margin-left: 0;
         font-size: 1rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .susan{
         margin-left: 0;
         font-size: 1rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .maggie{
         margin-right: 100%;
         margin-left: 4%;
         font-size: 1rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .mau{
         margin-left: 0;
         font-size: 1rem;
-        font-style: italic;
+        font-style: inria serif;
     }
      
 }
@@ -316,7 +316,7 @@ p{
     .heading{
         margin-top: 5%;
         font-size: 5rem;
-        font-style: italic;
+        font-style: inria serif;
         margin-left: 26%;
         font-family: inherit;
         font-weight: lighter;
@@ -326,28 +326,28 @@ p{
     .wato{
         margin-left: 4%;
         font-size: 1.5rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .pris{
         margin-left: 0;
         font-size: 1.5rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .susan{
         margin-left: 0;
         font-size: 1.5rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .maggie{
         margin-right: 100%;
         margin-left: 4%;
         font-size: 1.5rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .mau{
         margin-left: 0;
         font-size: 1.5rem;
-        font-style: italic;
+        font-style: inria serif;
     }
 }
 
@@ -376,7 +376,7 @@ p{
     .heading{
         margin-top: 5%;
         font-size: 5rem;
-        font-style: italic;
+        font-style: inria serif;
         margin-left: 26%;
         font-family: inherit;
         font-weight: lighter;
@@ -386,28 +386,28 @@ p{
     .wato{
         margin-left: 4%;
         font-size: 1.5rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .pris{
         margin-left: 0;
         font-size: 1.5rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .susan{
         margin-left: 0;
         font-size: 1.5rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .maggie{
         margin-right: 100%;
         margin-left: 4%;
         font-size: 1.5rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .mau{
         margin-left: 0;
         font-size: 1.5rem;
-        font-style: italic;
+        font-style: inria serif;
     }
 }
 
@@ -436,7 +436,7 @@ p{
     .heading{
         margin-top: 5%;
         font-size: 5rem;
-        font-style: italic;
+        font-style: inria serif;
         margin-left: 30%;
         font-family: inherit;
         font-weight: lighter;
@@ -446,28 +446,28 @@ p{
     .wato{
         margin-left: 10%;
         font-size: 1.5rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .pris{
         margin-left: 0;
         font-size: 1.5rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .susan{
         margin-left: 7px;
         font-size: 1.5rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .maggie{
         margin-right: 100%;
         margin-left: 15%;
         font-size: 1.5rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .mau{
         margin-left: 5px;
         font-size: 1.5rem;
-        font-style: italic;
+        font-style: inria serif;
     }        
 
 }
@@ -496,7 +496,7 @@ p{
     .heading{
         margin-top: 5%;
         font-size: 5rem;
-        font-style: italic;
+        font-style: inria serif;
         margin-left: 30%;
         font-family: inherit;
         font-weight: lighter;
@@ -506,28 +506,28 @@ p{
     .wato{
         margin-left: 10%;
         font-size: 1.99rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .pris{
         margin-left: 0;
         font-size: 1.99rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .susan{
         margin-left: 7px;
         font-size: 1.99rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .maggie{
         margin-right: 100%;
         margin-left: 15%;
         font-size: 1.99rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .mau{
         margin-left: 5px;
         font-size: 1.99rem;
-        font-style: italic;
+        font-style: inria serif;
     }
 }
 
@@ -555,7 +555,7 @@ p{
     .heading{
         margin-top: 5%;
         font-size: 5rem;
-        font-style: italic;
+        font-style: inria serif;
         margin-left: 33%;
         font-family: inherit;
         font-weight: lighter;
@@ -565,28 +565,28 @@ p{
     .wato{
         margin-left: 10%;
         font-size: 1.5rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .pris{
         margin-left: 0;
         font-size: 1.5rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .susan{
         margin-left: 7px;
         font-size: 1.5rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .maggie{
         margin-right: 100%;
         margin-left: 15%;
         font-size: 1.5rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .mau{
         margin-left: 5px;
         font-size: 1.5rem;
-        font-style: italic;
+        font-style: inria serif;
     }
 }
 @media screen and (min-width:1200px) and (max-width:1280px){
@@ -613,7 +613,7 @@ p{
     .heading{
         margin-top: 5%;
         font-size: 5rem;
-        font-style: italic;
+        font-style: inria serif;
         margin-left: 38%;
         font-family: inherit;
         font-weight: lighter;
@@ -623,27 +623,27 @@ p{
     .wato{
         margin-left: 10%;
         font-size: 1.5rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .pris{
         margin-left: 0;
         font-size: 1.5rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .susan{
         margin-left: 7px;
         font-size: 1.5rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .maggie{
         margin-right: 100%;
         margin-left: 15%;
         font-size: 1.5rem;
-        font-style: italic;
+        font-style: inria serif;
     }
     .mau{
         margin-left: 5px;
         font-size: 1.5rem;
-        font-style: italic;
+        font-style: inria serif;
     }
 }
