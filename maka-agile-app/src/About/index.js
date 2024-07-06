@@ -2,6 +2,8 @@ import './index.css';
 
 
 const About = () => {
+
+    // 
     return (
         <div className="about-text">
             <div className="services">
