@@ -1,41 +1,40 @@
 .container{
     background-color: #0904FC;
-    width: 80%;
+    width: 75%;
     border-radius: 80px;
-    height: 580px;
+    height: 520px;
     background-repeat: no-repeat;
-    border-radius: 100px; 
-    margin-left: 3%;
+    border-radius: 90px; 
+    margin-left: 1%;
+    margin-top: 5%;
 }
 
 .about-text{
     color: white;
-    margin-left: 3%;
+    margin-left: -13%;
     padding-top: 50px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 24px;
 }
 
-.overlay{
-    position: relative;
-    margin-left: 1120px;
-    border-radius: 50%;
-    margin-top: -34.5%;
-    height: 600px;
-    width: 600px;
-   background-color: white;
+.head{
+    margin-left: 15%;
+}
+p{
+    width: 900px;
 }
 .heading{
     text-align: center;   
     font-size: 50px;
+    margin-top: 1%;
 }
 .Aboutus{
-    height: 650px;
-    width: 650px;
+    height: 550px;
+    width: 550px;
     object-fit: cover;
     border-radius: 50%;
-    margin-top: -35%;
-    margin-left: 70%;
+    margin-top: -34%;
+    margin-left: 75%;
     background-color: white;
     position: relative;
 
