@@ -3,7 +3,7 @@ import AboutCopy from "./About copy";
 
 
 export const IntroductionToAbout= ()=>{
-  return <h1 className = "heading"> About Us </h1>
+  return <h1 className = "heading">About Us</h1>
 };
 
 

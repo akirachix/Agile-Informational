@@ -20,7 +20,7 @@ const AboutCopy = ()=>{
 
                 </div>
               <div>
-                <img src="images/about-removebg-preview.png" alt="overlay"  className="overlay"/>
+                <img src="/images/about-removebg-preview.png" alt="overlay"  className="Aboutus"/>
                 
               </div>
                 
