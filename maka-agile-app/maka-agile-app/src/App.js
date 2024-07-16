@@ -4,16 +4,22 @@ import Navbar from './Navbar';
 import LandingPage from './LandingPage';
 import Team from './Team';
 
-
 const App = () => {
   return (
-    <Router>
-      <Navbar />
-      <Routes>
-        <Route path="/" element={<LandingPage />} />
-        <Route path="/team" element={<Team />} />
-      </Routes>
-    </Router>
+    <div>
+      <Router>
+        <Navbar />
+        <Routes>
+          <Route path="/" element={
+            <>
+              <LandingPage />
+              <Team />
+            </>
+          } />
+          <Route path="/team" element={<Team />} />
+        </Routes>
+      </Router>
+    </div>
   );
 };
 
