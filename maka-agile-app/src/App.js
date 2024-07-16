@@ -1,10 +1,15 @@
 import Team from "./Team";
+import "./index.css"
+import Services from "./Services";
+
+
 
 
 const App=()=>{
   return(
     <div>
-    <Team/>
+            <Services/>
+            <Team/>
     </div>
   )
 }
