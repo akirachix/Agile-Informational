@@ -2,7 +2,7 @@ import "./index.css"
 import AboutCopy from "./About copy";
 
 
-export const IntroductionToAbout= ()=>{
+const IntroductionToAbout= ()=>{
   return <h1 className = "heading">About Us</h1>
 };
 
