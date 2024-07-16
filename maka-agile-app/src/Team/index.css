@@ -17,6 +17,7 @@
     border-radius: 50%;
     display: flex;
     align-items: center;
+    margin-right: 80%;
     
 }
 .heading{
@@ -114,14 +115,14 @@ p{
         display: flex;
         flex-direction: column;
         gap: 18%;
-        padding-left: 142px;
+        padding-left: 141px;
     }
     
     #twoImagesColumn{
       display: flex;
       flex-direction: column;
       gap: 18%; 
-      padding-left: 142px;
+      padding-left: 141px;
       padding-top: 3px;
     }
     
@@ -136,7 +137,7 @@ p{
         margin-top: 5%;
         font-size: 2rem;
         font-style: inria serif;
-        margin-left: 5%;
+        margin-left: 3%;
         font-family:inria serif ;
         font-weight: lighter;
     

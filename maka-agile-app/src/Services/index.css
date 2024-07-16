@@ -13,12 +13,13 @@
     margin-left: 20%;
     margin-top: -25%;
 }
-.about-text{
-    padding-left: -90px;
+.services-text{
     margin-right: 2%;
     margin-top: 5%;
     text-align: start;
-    line-height: 1.8;
+    line-height: 1.9;
+    margin-left: -5%;
+    gap: 2%;
 }
 .heading{
     margin-left: 40%;
@@ -30,7 +31,6 @@
     object-fit: cover;
     margin-left: 20%;
     margin-top: -5%;
-
 
 }
 
@@ -44,127 +44,7 @@
 
 }
 
-/* @media screen and (min-width: 280px) and (max-width: 668px){
-    .services{
-        display: flex;
-        flex-wrap: wrap;
-        font-family: inria serif;
-        text-align: center;
-    }
-    .visuals{
-        width: 250px;
-        height: 250px;
-        object-fit: contain;
-        margin-top: -10%;
-        margin-left: 0%;
-    }
-    .about-text{
-       margin-left: 2.5%;
-       text-align: left;
-    }
-    .heading{
-       margin-left: 32%;
-       font-family: inria serif;
 
-    }
-    .visuals-communication{
-        width: 250px;
-        height: 250px;
-        object-fit: contain;
-        margin-left: 4%;
-    
-    }
-    .visuals-notice{
-        width: 250px;
-        height: 250px;
-        object-fit: contain;
-        margin-left: 3%;
-    }
-    
-
-
-}
-
-@media screen and (min-width: 760px) and (max-width: 1025px){
-    .services{
-        display: flex;
-        flex-wrap: wrap;
-        font-family: inria serif;
-        font-size: x-large;
-    }
-    .visuals{
-        width: 250px;
-        height: 250px;
-        object-fit: contain;
-        margin-top: -10%;
-    }
-    .about-text{
-        text-align: start;
-      margin-left: 1.2%;
-
-
-    }
-    .heading{
-        margin-left: 32%;
-        font-family: inria serif;
-    }
-    .visuals-communication{
-        width: 250px;
-        height: 250px;
-        object-fit: contain;
-        margin-left: 18%;
-
-    
-    }
-  
-    .visuals-notice{
-        width: 250px;
-        height: 250px;
-        object-fit: contain;
-        margin-left: 12%;
-    
-    }
-
-}
-
-@media screen and (min-width: 1026px) and (max-width: 1300px){
-    .services{
-        display: flex;
-        flex-wrap: wrap;
-        font-family: inria serif;
-        font-size: x-large;
-    }
-    .visuals{
-        width: 250px;
-        height: 250px;
-        object-fit: contain;
-    }
-    .about-text{
-        text-align: left;
-      
-    }
-    .heading{
-        margin-left: 32%;
-        font-family: inria serif;
-    }
-    
-    .visuals-communication{
-        width: 250px;
-        height: 250px;
-        object-fit: contain;
-    
-    }
-    .visuals-notice{
-        width: 250px;
-        height: 250px;
-        object-fit: contain;
-    
-    }
-
-}
-
-
- */
 
 
  @media screen and (min-width: 280px) and (max-width: 668px){
@@ -174,7 +54,7 @@
         font-family: inria serif;
         font-size:18px;
         gap: 5%;
-        margin-right: 90px;
+        margin-right: 70px;
     }
     .visuals{
         width: 150px;
@@ -183,8 +63,8 @@
         margin-left: 2%;
         margin-top: 20%;
     }
-    .about-text{
-        margin-left: 25%;
+    .services-text{
+        margin-left: 10%;
         margin-top: 5%;
         text-align: start;
         line-height: 15.0pt;
@@ -192,7 +72,7 @@
 
     }
     .heading{
-        margin-left: 0.5%;
+        margin-right: 10px;
         font-family: inria serif;
         text-align: center;
     }
@@ -228,9 +108,9 @@
     .services{
         display: block;
         font-family: inria serif;
-        font-size:20px;
+        font-size:15px;
         gap: 2.5%;
-        margin-right: 105px;
+        margin-right: 100px;
     }
 
     
@@ -241,7 +121,7 @@
         margin-left: 15%;
         margin-top: 15%;
     }
-    .about-text{
+    .services-text{
         margin-left: 12%;
         margin-top: 5%;
         text-align: start;
@@ -249,7 +129,7 @@
 
     }
     .heading{
-        margin-left:40%;
+        margin-left:80%;
         font-family: inria serif;
         font-size: 40px;
 
@@ -287,7 +167,6 @@
         display:flex;
         flex-direction: row;
         font-family: inria serif;
-         gap: 10.5%;
         margin-right: 80px;
         
     }
@@ -295,10 +174,10 @@
         width: 200px;
         height: 100px;
         object-fit: cover; 
-        margin-left: 10%;
+        margin-left: 8%;
         margin-top: -30px;
     }
-    .about-text{
+    .services-text{
         margin-top: 5%;
         text-align: start;
         line-height: 18.0pt;
@@ -320,10 +199,9 @@
     
     }
     .text{
-        font-size: 17px;
+        font-size: 25px;
         flex-wrap: wrap;
         padding-left: 0px;
-        padding-right: 5px;
         line-height: 22.0pt;
 
     }
@@ -359,7 +237,7 @@
         margin-left: 10%;
         margin-top: -30px;
     }
-    .about-text{
+    .services-text{
         margin-top: 5%;
         text-align: start;
         line-height: 15.0pt;

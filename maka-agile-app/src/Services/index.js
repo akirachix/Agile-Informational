@@ -1,11 +1,13 @@
 import './index.css';
 
 
-const About = () => {
+const Services = () => {
 
-    // 
+     
     return (
-        <div className="about-text">
+
+        <div className="services-text">
+ <h1 className ="heading">Services</h1>
             <div className="services">
             <p className= "text">We make learning fun for learners by engaging them 
             in games that are educative and interactive to help
@@ -38,4 +40,4 @@ const About = () => {
     )
 }
 
-export default About;
+export default Services;
