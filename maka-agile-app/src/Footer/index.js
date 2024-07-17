@@ -2,7 +2,7 @@
 import './index.css';
 
 
-const Project = () =>{
+const Footer = () =>{
     return(
 
         <div className="Footer">
@@ -17,7 +17,7 @@ const Project = () =>{
        </p>
        </div>
        <div className ="Footer-text">
-       <b>Address</b>
+            <b>Address</b>
         <p> 
             Nairobi CBD in Nairobi, Kenya<br/>
             P.o box 24469-00200<br/>
@@ -67,4 +67,4 @@ const Project = () =>{
 }
 
 
-export default Project;
+export default Footer;

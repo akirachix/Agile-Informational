@@ -1,7 +1,8 @@
 import Team from "./Team";
 import "./index.css"
 import Services from "./Services";
-import Project from "./Project";
+
+import Footer from "./Footer"
 
 
 
@@ -11,7 +12,7 @@ const App=()=>{
     <div>
             <Services/>
             <Team/>
-            <Project/>
+            <Footer/>
             
     </div>
   )
