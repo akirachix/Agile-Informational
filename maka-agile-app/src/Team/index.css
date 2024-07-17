@@ -1,24 +1,21 @@
 
 .threeImagesColumn{
     display: flex;
-    /* display: flex; */
-    /* gap: 18%; */
-    /* padding-left: 260px; */
+    gap: 18%;
+    padding-left: 260px;
 }
 
 #twoImagesColumn{
   display: flex;
-  /* gap: 18%;  */
-  /* padding-left: 550px; */
+  gap: 18%; 
+  padding-left: 550px;
   padding-top: 30px;
 }
 
 #team-members img{
     width: 256px;
     border-radius: 50%;
-    /* display: flex; */
-    /* align-items: center; */
-    /* margin-right: 80%; */
+
     
 }
 .heading{
