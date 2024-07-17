@@ -1,6 +1,7 @@
 import Team from "./Team";
 import "./index.css"
 import Services from "./Services";
+import AboutUs from "./AboutUs";
 
 
 
@@ -8,8 +9,10 @@ import Services from "./Services";
 const App=()=>{
   return(
     <div>
+      <AboutUs/>
             <Services/>
             <Team/>
+
     </div>
   )
 }
