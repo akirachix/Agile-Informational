@@ -1,5 +1,5 @@
 import './index.css'
-const AboutCopy = ()=>{
+const AboutUs = ()=>{
     return(
         <div className="container">
             <div className="about-text">
