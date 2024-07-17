@@ -1,7 +1,7 @@
 import Team from "./Team";
 import "./index.css"
 import Services from "./Services";
-import AboutCopy from "./About copy";
+import AboutUs from "./AboutUs";
 
 
 
@@ -9,7 +9,7 @@ import AboutCopy from "./About copy";
 const App=()=>{
   return(
     <div>
-      <AboutCopy/>
+      <AboutUs/>
             <Services/>
             <Team/>
 
