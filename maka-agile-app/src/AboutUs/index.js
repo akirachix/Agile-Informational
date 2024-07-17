@@ -33,4 +33,4 @@ const AboutUs = ()=>{
 
 }
 
-export default AboutCopy;
+export default AboutUs;
