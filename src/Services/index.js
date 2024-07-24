@@ -18,7 +18,7 @@ const Services = () => {
 
             <div className="services">
             <p className= "text">We have discovered the main support system for our
-            learners is the emotional and physical encouragement
+            learner, the emotional and physical encouragement
             from our parents and teachers. This helps learners to 
             feel uplifted and mostly encouraged. We foster this by 
             ensuring effective communication among the parents 
