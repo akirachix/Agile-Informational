@@ -27,8 +27,8 @@ const Services = () => {
             </div>
 
             <div className="services">
-            <p className= "text">We  Like to appreciate the efforts that we see in our learners
-            as much as our parents and teachers. In our notice board we 
+            <p className= "text">We like to appreciate the efforts that we see in our learners
+            as much as our parents and teachers. In our notice board, we 
             put the spotlight on the amazing work that our members do 
             to contribute towards the success of our learners.</p>
             <p><img src = "/images/noticeboard.webp" className = "visuals-notice"/></p>
