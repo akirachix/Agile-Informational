@@ -1,14 +1,14 @@
 
 .threeImagesColumn{
     display: flex;
-    gap: 18%;
-    padding-left: 260px;
+    gap: 20%;
+    padding-left: 180px;
 }
 
 #twoImagesColumn{
   display: flex;
-  gap: 18%; 
-  padding-left: 550px;
+  gap: 20%; 
+  padding-left: 470px;
   padding-top: 30px;
 }
 
@@ -27,11 +27,12 @@
     font-weight: lighter;
 
 }
-p{
+#p{
     margin-left: 15%;
     font-size: 20px;
     font-style: inria serif;
 }
+
 .wato{
     margin-left: 31%;
     font-size: 20px;
@@ -55,6 +56,7 @@ p{
         gap: 18%;
         padding-left: 90px;
     }
+
     
     #twoImagesColumn{
       display: flex;
@@ -174,14 +176,14 @@ p{
         display: flex;
         flex-direction: column;
         gap: 18%;
-        padding-left: 160px;
+        padding-left: 140px;
     }
     
     #twoImagesColumn{
       display: flex;
       flex-direction: column;
       gap: 18%; 
-      padding-left: 160px;
+      padding-left: 140px;
       padding-top: 3px;
     }
     
@@ -354,7 +356,7 @@ p{
     .threeImagesColumn{
         display: flex;
         gap: 18%;
-        padding-left: 25px;
+        padding-left: 45px;
         padding-right: 85px;
     }
     
@@ -376,7 +378,7 @@ p{
         margin-top: 5%;
         font-size: 5rem;
         font-style: inria serif;
-        margin-left: 26%;
+        text-align: center;
         font-family: inherit;
         font-weight: lighter;
     
@@ -533,7 +535,7 @@ p{
 @media screen and (min-width:1000px) and (max-width:1200px){
     .threeImagesColumn{
         display: flex;
-        gap: 20%;
+        gap: 15%;
         padding-left: 45px;
     }
     
@@ -555,7 +557,7 @@ p{
         margin-top: 5%;
         font-size: 5rem;
         font-style: inria serif;
-        margin-left: 33%;
+        text-align: center;
         font-family: inherit;
         font-weight: lighter;
     
