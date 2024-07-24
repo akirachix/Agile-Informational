@@ -1,32 +1,39 @@
-import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import React, { useRef } from 'react';
 import Navbar from './Navbar';
 import LandingPage from './LandingPage';
+import AboutUs from './AboutUs';
+import Services from './Services';
 import Team from './Team';
-import "./index.css"
-import Services from "./Services";
-import AboutUs from "./AboutUs";
+import './index.css';
 
 const App = () => {
+  const homeRef = useRef(null);
+  const aboutRef = useRef(null);
+  const servicesRef = useRef(null);
+  const teamRef = useRef(null);
+
   return (
     <div>
-      <Router>
-        <Navbar />
-        <Routes>
-          <Route path="/" element={
-            <>
-              <div id="landing"><LandingPage /></div>
-              <div id="about"><AboutUs /></div>
-              <div id="services"><Services /></div>
-              <div id="team"><Team /></div>
-            </>
-          } />
-          <Route path="/team" element={<Team />} />
-          <Route path="/about" element={<AboutUs />} />
-          <Route path="/services" element={<Services />} />
-        </Routes>
-      </Router>
+      <Navbar 
+        homeRef={homeRef} 
+        aboutRef={aboutRef} 
+        servicesRef={servicesRef} 
+        teamRef={teamRef} 
+      />
+      <div ref={homeRef}>
+        <LandingPage />
+      </div>
+      <div ref={aboutRef}>
+        <AboutUs />
+      </div>
+      <div ref={servicesRef}>
+        <Services />
+      </div>
+      <div ref={teamRef}>
+        <Team />
+      </div>
     </div>
   );
 };
+
 export default App;

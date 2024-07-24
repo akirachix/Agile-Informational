@@ -87,7 +87,7 @@
 @media screen and (min-width: 281px) and (max-width: 767px) {
     .container{
         background-color: #0904FC;
-        width: 95%;
+        width: 87%;
         border-radius: 70px;
         height: 650px;
         background-repeat: no-repeat;
@@ -111,7 +111,7 @@
         border-radius: 50%;
         margin-top: 3%;
         height: 350px;
-        width: 380px;
+        width: 370px;
        background-color: white;
     }
     .heading{
@@ -363,3 +363,4 @@
     
     }
 }
+
