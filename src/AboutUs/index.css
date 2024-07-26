@@ -1,0 +1,366 @@
+.container{
+    overflow-y: hidden;
+    background-color: #0904FC;
+    width: 65%;
+    border-radius: 80px;
+    height: 620px;
+    background-repeat: no-repeat;
+    border-radius: 90px; 
+    margin-left: 8.2%;
+    margin-top: 5%;
+}
+
+.about-text{
+    color: white;
+    margin-left: 3%;
+    padding-top: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 24px;
+}
+
+.mission{
+    margin-left: 15%;
+    text-decoration: underline;
+}
+
+.vision{
+    margin-left: 15%;
+    text-decoration: underline;
+}
+.p{
+    width: 900px;
+}
+.heading{
+    text-align: center;   
+    font-size: 50px;
+    margin-top: 1%;
+}
+.Aboutus{
+    height: 640px;
+    width: 570px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-top: -30%;
+    margin-left: 52%;
+    background-color: white;
+    position: absolute;
+
+}
+@media screen and (min-width: 280px) and (max-width: 280px) {
+    .container{
+        background-color: #0904FC;
+        width: 94%;
+        border-radius: 70px;
+        height: 650px;
+        background-repeat: no-repeat;
+        border-radius: 30px; 
+        margin-left: 2.5%;
+        margin-top: 4%;
+    }
+    
+    .about-text{
+        color: white;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        padding: 10px;
+        font-size: 13px;
+    }
+    
+    .Aboutus{
+        position: absolute;
+        margin-left: 0.5%;
+        border-radius: 50%;
+        margin-top: -5%;
+        height: 250px;
+        width: 266px;
+       background-color: white;
+    }
+    .heading{
+        text-align: center;
+        font-size: 30px;
+        margin-top: 5%;
+    }
+    
+}
+
+@media screen and (min-width: 281px) and (max-width: 767px) {
+    .container{
+        background-color: #0904FC;
+        width: 87%;
+        border-radius: 70px;
+        height: 650px;
+        background-repeat: no-repeat;
+        border-radius: 30px; 
+        margin-left: 2.5%;
+        margin-top: 4%;
+    }
+    
+    .about-text{
+        color: white;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        padding: 10px;
+        font-size: 13px;
+    }
+    
+    .Aboutus{
+        position: absolute;
+        margin-left: -1%;
+        border-radius: 50%;
+        margin-top: 3%;
+        height: 350px;
+        width: 370px;
+       background-color: white;
+    }
+    .heading{
+        text-align: center;
+        font-size: 30px;
+        margin-top: 5%;
+    }
+    
+}
+@media screen and (min-width: 414px) and (max-width: 414px) {
+    .container{
+        background-color: #0904FC;
+        width: 390px;
+        border-radius: 70px;
+        height: 650px;
+        background-repeat: no-repeat;
+        border-radius: 30px; 
+        margin-left: 2.5%;
+        margin-top: 4%;
+    }
+    
+    .about-text{
+        color: white;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        padding: 10px;
+        font-size: 13px;
+    }
+    
+    .Aboutus{
+        position: relative;
+        margin-left: -3%;
+        border-radius: 50%;
+        margin-top: 0%;
+        height: 350px;
+        width: 410px;
+       background-color: white;
+    }
+    .heading{
+        text-align: center;
+        font-size: 30px;
+        margin-top: 5%;
+    }
+    
+} 
+
+@media screen and (min-width: 768px) and (max-width: 768px) {
+    .container{
+        background-color: #0904FC;
+        width: 780px;
+        border-radius: 80px;
+        height: 1070px;
+        background-repeat: no-repeat;
+        border-radius: 30px; 
+        margin-left: 3%;
+        margin-top: 4%;
+    }
+    
+    .about-text{
+        color: white;
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 2%;
+        padding: 10px;
+        font-size: 25px;
+    }
+    
+    .Aboutus{
+        position: absolute;
+        margin-left: -1%;
+        border-radius: 50%;
+        margin-top: 1%;
+        height: 800px;
+        width: 800px;
+       background-color: white;
+    }
+    .heading{
+        text-align: center;
+        font-size: 35px;
+        margin-top: 0%;
+    }
+    
+}
+
+@media screen and (min-width: 769px) and (max-width: 900px) {
+    .container{
+        background-color: #0904FC;
+        width: 795px;
+        border-radius: 80px;
+        height: 1070px;
+        background-repeat: no-repeat;
+        border-radius: 30px; 
+        margin-left: 1%;
+        margin-top: 4%;
+    }
+    
+    .about-text{
+        color: white;
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 2%;
+        padding: 10px;
+        font-size: 25px;
+    }
+    
+    .Aboutus{
+        position: absolute;
+        margin-left: -1%;
+        border-radius: 50%;
+        margin-top: 1%;
+        height: 800px;
+        width: 800px;
+       background-color: white;
+    }
+    .heading{
+        text-align: center;
+        font-size: 35px;
+        margin-top: 0%;
+    }
+    
+}
+@media screen and (min-width: 1001px) and (max-width: 1100px) {
+    .container{
+        background-color: #0904FC;
+        width: 705px;
+        border-radius: 80px;
+        height: 450px;
+        background-repeat: no-repeat;
+        border-radius: 30px; 
+        margin-left: 4%;
+        margin-top: 4%;
+    }
+    
+    .about-text{
+        color: white;
+        margin-left: 3%;
+        display: block;
+        position: relative;
+        padding-top: 50px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 18px;
+    }
+    
+    .Aboutus{
+        height: 450px;
+        width: 450px;
+        object-fit: cover;
+        border-radius: 50%;
+        margin-top: -40%;
+        margin-left: 44%;
+        background-color: white;
+        position: absolute;
+    }
+    .heading{
+        text-align: center;
+        font-size: 33px;
+        margin-top: 0%;
+    }
+    
+}
+@media screen and (min-width: 901px) and (max-width: 1000px) {
+    .container{
+        background-color: #0904FC;
+        width: 885px;
+        border-radius: 80px;
+        height: 1070px;
+        background-repeat: no-repeat;
+        border-radius: 30px; 
+        margin-left: 1%;
+        margin-top: 4%;
+    }
+    
+    .about-text{
+        color: white;
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 2%;
+        padding: 10px;
+        font-size: 25px;
+    }
+    
+    .Aboutus{
+        position: absolute;
+        margin-left: -1%;
+        border-radius: 50%;
+        margin-top: 1%;
+        height: 800px;
+        width: 899px;
+       background-color: white;
+    }
+    .heading{
+        text-align: center;
+        font-size: 35px;
+        margin-top: 0%;
+    }
+    
+}
+@media screen and (min-width: 1101px) and (max-width: 1300px) {
+    .container{
+        overflow-y: hidden;
+        background-color: #0904FC;
+        width: 75%;
+        border-radius: 80px;
+        height: 520px;
+        background-repeat: no-repeat;
+        border-radius: 90px; 
+        margin-left: 2%;
+        margin-top: 5%;
+    }
+    
+    .about-text{
+        color: white;
+        margin-left: 0%;
+        text-wrap: wrap;
+        width: 4px;
+        position: relative;
+        padding-top: 50px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 20px;
+    }
+    
+    .mission{
+        margin-left: 15%;
+        text-decoration: underline;
+    }
+    
+    .vision{
+        margin-left: 15%;
+        text-decoration: underline;
+    }
+    .p{
+        width: 900px;
+    }
+    .heading{
+        text-align: center;   
+        font-size: 50px;
+        margin-top: 1%;
+    }
+    .Aboutus{
+        height: 520px;
+        width: 450px;
+        object-fit: cover;
+        border-radius: 50%;
+        margin-top: -35%;
+        margin-left: 55%;
+        background-color: white;
+        position: absolute;
+    
+    }
+}
+
