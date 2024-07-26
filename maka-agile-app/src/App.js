@@ -3,6 +3,8 @@ import "./index.css"
 import Services from "./Services";
 import AboutUs from "./AboutUs";
 
+import Footer from "./Footer"
+
 
 
 
@@ -12,6 +14,11 @@ const App=()=>{
       <AboutUs/>
             <Services/>
             <Team/>
+
+            <Footer/>
+            
+
+
 
     </div>
   )
