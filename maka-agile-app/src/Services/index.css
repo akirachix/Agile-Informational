@@ -1,0 +1,277 @@
+.services{
+    display: flex;
+    font-family: inria serif;
+    font-size: 1.5rem;
+    gap: 2%;
+    margin-right:250px;
+    
+}
+.visuals{
+    width: 250px;
+    height: 160px;
+    object-fit: cover;
+    margin-left: 20%;
+    margin-top: -25%;
+}
+.services-text{
+    margin-right: 2%;
+    margin-top: 5%;
+    text-align: start;
+    line-height: 1.9;
+    margin-left: -5%;
+    gap: 2%;
+}
+.heading{
+    text-align: center;
+    font-family: inria serif;
+}
+.visuals-communication{
+    width: 250px;
+    height: 160px;
+    object-fit: cover;
+    margin-left: 20%;
+    margin-top: -5%;
+
+}
+
+.visuals-notice{
+    width: 250px;
+    height: 160px;
+    object-fit: cover;
+    margin-top: -10%;
+    margin-left:20% ;
+
+
+}
+
+
+
+
+ @media screen and (min-width: 280px) and (max-width: 668px){
+
+    .services{
+        display:block;
+        font-family: inria serif;
+        font-size:18px;
+        gap: 5%;
+        margin-right: 70px;
+    }
+    .visuals{
+        width: 150px;
+        height: 100px;
+        object-fit: cover;
+        margin-left: 2%;
+        margin-top: 20%;
+    }
+    .services-text{
+        margin-left: 10%;
+        margin-top: 5%;
+        text-align: start;
+        line-height: 15.0pt;
+
+
+    }
+    .heading{
+        margin-right: 10px;
+        font-family: inria serif;
+        text-align: center;
+    }
+    .visuals-communication{
+        width: 150px;
+        height: 100px;
+        object-fit: cover;
+        margin-left: 2%;
+        margin-top: 20%;
+    
+    
+    }
+    
+    .visuals-notice{
+        width: 150px;
+        height: 100px;
+        object-fit: cover;
+        margin-left: 2%;
+        margin-top: 20%;
+        
+    
+    
+    }
+
+
+
+
+ }
+
+
+ @media screen and (min-width: 760px) and (max-width: 1000px){
+ 
+    .services{
+        display: block;
+        font-family: inria serif;
+        font-size:15px;
+        gap: 2.5%;
+        margin-right: 100px;
+    }
+
+    
+    .visuals{
+        width: 250px;
+        height: 160px;
+        object-fit: cover;
+        margin-left: 15%;
+        margin-top: 15%;
+    }
+    .services-text{
+        margin-left: 12%;
+        margin-top: 5%;
+        text-align: start;
+        line-height: 20.0pt;
+
+    }
+    .heading{
+        margin-left:80%;
+        font-family: inria serif;
+        font-size: 40px;
+
+    }
+    .visuals-communication{
+        width: 250px;
+        height: 160px;
+        object-fit: cover;
+        margin-left: 15%;
+        margin-top: 15%;
+    
+    
+    }
+    .text{
+        font-size: 25px;
+    }
+    
+    .visuals-notice{
+        width: 300px;
+        height: 160px;
+        object-fit: cover;
+        margin-top: 15%;
+        margin-left:15% ;
+    
+    
+    }
+
+
+
+
+ }
+
+ @media screen and (min-width: 1000px) and (max-width: 1100px){
+    .services{
+        display:flex;
+        flex-direction: row;
+        font-family: inria serif;
+        margin-right: 80px;
+        
+    }
+    .visuals{
+        width: 200px;
+        height: 100px;
+        object-fit: cover; 
+        margin-left: 8%;
+        margin-top: -30px;
+    }
+    .services-text{
+        margin-top: 5%;
+        text-align: start;
+        line-height: 18.0pt;
+
+    }
+    .heading{
+        margin-left: 40%;
+        font-family: inria serif;
+        font-size: 32px;
+
+    }
+    .visuals-communication{
+        width: 250px;
+        height: 120px;
+        object-fit: cover;
+        margin-left: 10%;
+        margin-top: 5%;
+    
+    
+    }
+    .text{
+        font-size: 25px;
+        flex-wrap: wrap;
+        padding-left: 0px;
+        line-height: 22.0pt;
+
+    }
+    
+    .visuals-notice{
+        width: 250px;
+        height: 110px;
+        object-fit: cover;
+        margin-top: 5%;
+        margin-left:10% ;
+    
+    
+    }
+
+}
+
+
+
+@media screen and (min-width: 1100px) and (max-width: 1300px){
+    .services{
+        display:flex;
+        flex-direction: row;
+        font-family: inria serif;
+        font-size:12px;
+         gap: 10.5%;
+        margin-right: 180px;
+        
+    }
+    .visuals{
+        width: 250px;
+        height: 160px;
+        object-fit: cover; 
+        margin-left: 10%;
+        margin-top: -30px;
+    }
+    .services-text{
+        margin-top: 5%;
+        text-align: start;
+        line-height: 15.0pt;
+
+    }
+    .heading{
+        margin-left: 40%;
+        font-family: inria serif;
+
+    }
+    .visuals-communication{
+        width: 250px;
+        height: 160px;
+        object-fit: cover;
+        margin-left: 10%;
+        margin-top: 5%;
+    
+    
+    }
+    .text{
+        font-size: 20px;
+        flex-wrap: wrap;
+        padding-left: 80px;
+        padding-right: 5px;
+    }
+    
+    .visuals-notice{
+        width: 300px;
+        height: 160px;
+        object-fit: cover;
+        margin-top: 5%;
+        margin-left:10% ;
+    
+    
+    }
+
+}
